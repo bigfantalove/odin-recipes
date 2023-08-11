@@ -1,0 +1,36 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+    background-color: rgb(239, 239, 239);
+}
+
+h1 {
+    color: rgb(255, 83, 13);
+   
+    text-align: center;
+
+    font-size: 50px;
+    font-weight: 400;
+}
+
+h2 {color: rgb(63, 87, 101);;
+font-weight: 400;
+text-transform: uppercase;
+}
+
+
+.text {
+    color: rgb(63, 87, 101);
+    line-height: 1.5;
+}
+
+.images {
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 0px;
+}
+
+
+.tape {
+
+    margin: 60px 20px;
+}
